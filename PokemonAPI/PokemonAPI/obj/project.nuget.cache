@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1/Q33hwkoE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\PokemonAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\deros\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
