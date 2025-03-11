@@ -4,3 +4,15 @@ C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025
 C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.AssemblyInfo.cs
 C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.csproj.CoreCompileInputs.cache
 C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.sourcelink.json
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net8.0\PokemonAPI.exe
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net8.0\PokemonAPI.deps.json
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net8.0\PokemonAPI.runtimeconfig.json
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net8.0\PokemonAPI.dll
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net8.0\PokemonAPI.pdb
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.csproj.Up2Date
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.dll
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\refint\PokemonAPI.dll
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.pdb
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.genruntimeconfig.cache
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\ref\PokemonAPI.dll
