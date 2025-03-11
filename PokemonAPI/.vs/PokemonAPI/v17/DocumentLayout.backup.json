@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokemonapi\\pokeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\pokeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokemonapi\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,12 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "PokeAPIClient.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\PokeAPIClient.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\PokeAPIClient.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\PokeAPIClient.cs",
+              "RelativeToolTip": "PokemonAPI\\PokeAPIClient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:34:51.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Pokemon.cs",
+              "RelativeDocumentMoniker": "PokemonAPI\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Pokemon.cs",
+              "RelativeToolTip": "PokemonAPI\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T16:02:03.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Program.cs",
               "RelativeDocumentMoniker": "PokemonAPI\\Program.cs",
               "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Program.cs",
               "RelativeToolTip": "PokemonAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T15:47:25.06Z",
               "EditorCaption": ""

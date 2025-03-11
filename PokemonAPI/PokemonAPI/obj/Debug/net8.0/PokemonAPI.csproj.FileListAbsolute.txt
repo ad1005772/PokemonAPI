@@ -1,0 +1,6 @@
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.csproj.AssemblyReference.cache
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.AssemblyInfoInputs.cache
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.AssemblyInfo.cs
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.csproj.CoreCompileInputs.cache
+C:\Users\deros\OneDrive - Ozarks Technical Community College\Documents\2024-2025\Spring\CIS-150\GitHub\PokemonAPI\PokemonAPI\PokemonAPI\obj\Debug\net8.0\PokemonAPI.sourcelink.json
