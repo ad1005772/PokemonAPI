@@ -31,6 +31,7 @@ class Program
 
     static void DisplayPokemon(Pokemon pokemon)
     {
+        Console.WriteLine($"Id: {pokemon.Id}");
         Console.WriteLine($"Name: {pokemon.Name}");
         Console.WriteLine($"Height: {pokemon.Height}");
         Console.WriteLine($"Weight: {pokemon.Weight}");
