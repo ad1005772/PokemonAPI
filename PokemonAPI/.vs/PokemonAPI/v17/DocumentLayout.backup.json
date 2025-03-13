@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokemonapi\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD408F5E-65C7-4CA0-B8CE-7880EBF17079}|PokeAPITest\\PokeAPITest.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokeapitest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD408F5E-65C7-4CA0-B8CE-7880EBF17079}|PokeAPITest\\PokeAPITest.csproj|solutionrelative:pokeapitest\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokemonapi\\pokeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\pokeapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD408F5E-65C7-4CA0-B8CE-7880EBF17079}|PokeAPITest\\PokeAPITest.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokeapitest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD408F5E-65C7-4CA0-B8CE-7880EBF17079}|PokeAPITest\\PokeAPITest.csproj|solutionrelative:pokeapitest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|c:\\users\\deros\\onedrive - ozarks technical community college\\documents\\2024-2025\\spring\\cis-150\\github\\pokemonapi\\pokemonapi\\pokemonapi\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65EA7D57-23E3-4CA5-AF3F-545895C96EBB}|PokemonAPI\\PokemonAPI.csproj|solutionrelative:pokemonapi\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,21 +33,51 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokeAPITest\\Test1.cs",
+              "RelativeDocumentMoniker": "PokeAPITest\\Test1.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokeAPITest\\Test1.cs*",
+              "RelativeToolTip": "PokeAPITest\\Test1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:07:07.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PokeAPIClient.cs",
               "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\PokeAPIClient.cs",
               "RelativeDocumentMoniker": "PokemonAPI\\PokeAPIClient.cs",
               "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\PokeAPIClient.cs",
               "RelativeToolTip": "PokemonAPI\\PokeAPIClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-11T14:34:51.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokeAPITest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "PokeAPITest\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokeAPITest\\MSTestSettings.cs",
+              "RelativeToolTip": "PokeAPITest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T15:06:53.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Pokemon.cs",
               "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Pokemon.cs",
               "RelativeDocumentMoniker": "PokemonAPI\\Pokemon.cs",
@@ -52,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Program.cs",
               "RelativeDocumentMoniker": "PokemonAPI\\Program.cs",
               "ToolTip": "C:\\Users\\deros\\OneDrive - Ozarks Technical Community College\\Documents\\2024-2025\\Spring\\CIS-150\\GitHub\\PokemonAPI\\PokemonAPI\\PokemonAPI\\Program.cs",
               "RelativeToolTip": "PokemonAPI\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T15:47:25.06Z",
               "EditorCaption": ""

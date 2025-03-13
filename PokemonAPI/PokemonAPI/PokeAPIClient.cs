@@ -4,11 +4,16 @@ using Newtonsoft.Json;
 
 public class PokeApiClient
 {
-    private static readonly HttpClient client = new HttpClient();
+    private readonly HttpClient _httpClient;
+
+    public PokeApiClient(HttpClient httpClient)
+    {
+        _httpClient = httpClient;
+    }
 
     public async Task<Pokemon> GetPokemonAsync(string nameOrId)
     {
-        var response = await client.GetStringAsync($"https://pokeapi.co/api/v2/pokemon/{nameOrId}");
+        var response = await _httpClient.GetStringAsync($"https://pokeapi.co/api/v2/pokemon/{nameOrId}");
         return JsonConvert.DeserializeObject<Pokemon>(response);
     }
 }
